@@ -3,7 +3,7 @@
      Fork, clone, or download project.
      Unzip project and open in VSC (Visual Studio Code)
      Open the terminal from within VSC and from the command line run npm install.
-     Once the packages have been installed run the application by typing npm build.
+     Once the packages have been installed run the application by double clicking the index.html file.
 
 # Steps Used To Create This Project
      1. Initialize this project as a local GitHub repository.
